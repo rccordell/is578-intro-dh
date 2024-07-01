@@ -13,10 +13,10 @@ header:
 
 toc: true
 toc_sticky: true
-title: 'Welcome to Introduction to Digital Humanities'
+title: 'IS578: Introduction to Digital Humanities'
 sidebar:
   - title: "Office Hours"
-    text: "By appointment, using calendly link (available on Canvas or Google Drive)"
+    text: "By appointment or TBD"
     nav: sidebar-sample
   - title: "Class Meetings"
     text: "Thursdays 4:00pm-6:00 pm CST"
