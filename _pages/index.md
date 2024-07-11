@@ -44,6 +44,6 @@ Upon successful completion of the course, students will:
 
 ## Acknowledgements
 
-In teaching DH over the years I have learned from many colleagues, but I particularly Thanks to John R Ladd, Melanie Walsh, Brandon Walsh, Meredith Martin, Sierra Eckert, Anelise Shrout, Cameron Blevins, Lincoln Mullen, Benjamin Schmidt, Lauren Klein, Miriam Posner, Alan Liu, Ted Underwood, and Ryan Cordell for sharing their syllabi - all of which have been immensely helpful and influential. 
+In teaching DH over the years I have learned from many colleagues, but I particularly thank [Alan Liu](https://liu.english.ucsb.edu), [Miriam Posner](https://miriamposner.com/), [Whitney Trettien](http://whitneyannetrettien.com/), and [Scott Weingart](https://scottbot.net/) for graduate syllabi from which I drew particular inspiration. Even greater thanks to my iSchool colleague [Zoe LeBlanc](https://zoeleblanc.com), from whom I have learned an enormous amount about teaching DH, and from [whose previous section of IS578](https://zoeleblanc.com/is578-intro-dh/) this syllabus and website are both adapted.
 
-I also want to especially thank Rebecca Munson, who remains an inspiration for how I think and teach about data and who is sorely missed but will never be forgotten.
+In addition, thanks to colleagues on social media who offered suggestions and feedback about this syllabus, including Allie Alvis, Lawrence Evalyn, Erik Fredner, Gabi, Kathy Harris, Jennifer Isasi, Matthew Kollmer, Alan Liu, Dez Miller, Rebecca Parmer, Jonathan Senchyne,  and Amanda Wyatt Visconti.
