@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://ryancordell.org"
     - label: "BlueSky"
-      icon: "fas fa-brands fa-bluesky"
+      icon: "fas fa-fw fa-bluesky"
       url: "https://bsky.app/profile/ryancordell.bsky.social"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
