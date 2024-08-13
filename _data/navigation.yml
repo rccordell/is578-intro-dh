@@ -6,8 +6,6 @@ main:
     url: /assessments/1-foundations
   - title: "Policies"
     url: /policies
-  # - title: "Workshop Materials"
-   # url: /materials/intro-ai-cli/01-course-ai-tools
   - title: "Blog & Resources"
     url: /blog/
 
@@ -25,51 +23,13 @@ assessments:
       - title: "Final Project Proposal"
         url: /assessments/5-project-proposal
 
-# materials:
- # - title: Intro to AI and CLI
-  #  children:
-  #    - title: "Course & AI Tools"
-   #     url: /materials/intro-ai-cli/01-course-ai-tools
-  #    - title: "Introduction to the Command-Line"
-   #     url: /materials/intro-ai-cli/02-command-line
-    #  - title: "Command-Line Cheatsheet"
-   #     url: /materials/intro-ai-cli/03-command-line-cheatsheet
- # - title: Intro to GitHub and Git
-  #  children:
-  #    - title: "Introduction to GitHub"
-   #     url: /materials/intro-github-git/01-intro-github
-    #  - title: "Introduction to Git"
-   #     url: /materials/intro-github-git/02-intro-git
- # - title: Intro to Data Work
- #   children:
-  #    - title: "Introduction to Formatting & Organizing Data"
-   #     url: /materials/intro-data-work/01-intro-formatting-organizing-data/
-    #  - title: "Introduction to Cleaning Data"
-     #   url: /materials/intro-spreadsheets/02-intro-data-cleaning
- # - title: Intro to Visualizing Data
-  #  children:
-   #   - title: "Introduction to Data Visualization"
-   #     url: /materials/intro-visualizing-data/01-intro-data-visualization
- # - title: Intro to Data Analysis
-  #  children:
-   #   - title: "Introduction to Text Analysis"
-    #    url: /materials/intro-data-analysis/01-intro-text-analysis
-   #   - title: "Introduction to Network Analysis"
-   #     url: /materials/intro-data-analysis/02-intro-network-analysis
-   #   - title: "Introduction to Mapping"
-   #     url: /materials/intro-data-analysis/03-intro-mapping
- # - title: Intro to Web
- #   children:
- #     - title: "Introduction to HTML & the Web"
-  #      url: /materials/intro-web/01-intro-html/
-  #    - title: "Introduction to the Web & Static Sites"
-  #      url: /materials/intro-web/02-intro-websites/
-
- schedule:
-  - title: "Schedule"
-    children:   
+schedule:
+  - title: Overview
+    children:
       - title: "Schedule Overview"
         url: /schedule/00-overview
+  - title: Weekly Activities
+    children:  
       - title: "<b>August 29</b><br> What is Digital Humanities (in 2024)?"
         url: /schedule/01-what-is-dh
       - title: "<b>September 5</b><br> What is Humanities Data?"
