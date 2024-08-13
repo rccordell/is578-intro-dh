@@ -13,7 +13,7 @@ As you no doubt know, grading can be a contentious issue in college courses, par
 
 In graduate courses, however, these issues are even more acute, as you professionalize away from away a system in which you are assigned letter grades and toward a system where you must take ownership of your own work, ensuring it meets the standards of professional performance, service, research, and writing. Your professors will give you feedback and guidance—and will at points decide whether your work is sufficient to move to the next stage—but your thesis, GA jobs, comprehensive exam papers, or dissertation chapters will likely not be given A's or B's. In your longer career, you will certainly not be given letter grades, but instead be evaluated in other ways, often with your own participation. 
 
-In addition, BookLab is an experimental course in which I want you to feel empowered to experiment and even sometimes to fail. I want to create an environment in which intellectual risk-taking and creative scholarship can be rewarded, even when it does not pan out as hoped. 
+In addition, Intro to DH is a course in which I want you to feel empowered to experiment and even sometimes to fail. As I write [in the course policies]({{site.baseurl}}/policies), this course will expect you to experiment with new technologies, work in groups, and sometimes venture outside your intellectual comfort zones. To facilitate such openness, we must create an environment in which intellectual risk-taking and creative scholarship can be rewarded, even when it does not pan out as hoped. 
 
 ## Consultative Grading
 

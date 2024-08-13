@@ -5,15 +5,17 @@ toc: true
 toc_sticky: true
 ---
 
-For each week of class there are readings listed under _Core_ and _Penumbra_. The core readings are just that: central to the week's discussion and/or lab. Everyone should read these closely and prepare to discuss them. The penumbral readings try to capture a broader spectrum of scholarship pertinent to each week's theme, which I could not require because time is, sadly, finite. Each week you should choose one of the penumbral readings, based on your own interests, to read and be prepared to reference as a means of expanding our conversation together. 
+IS583 an experiential course that moves between discussion of readings and applied lab sessions week-to-week. A central goal of the class will be to bring its two facets into conversation: to use our readings and discussions to contextualize our applied work in laboratories, and to use our applied work in laboratories to enrich our understanding of concepts from our readings. Taken together, our discussions and labs will give students a sense of both the theory and praxis of DH.
 
-For each class period, you will find a shared Google Doc linked on the schedule. We will use these documents to complete two weekly tasks related to our readings: first the preparation you will do before class, and second the collaborative note-taking we will do together in class. I describe each below. 
+If you look at the schedule, you will see our weeks divided into six units, each with one _Discussion_ and one _Lab_ session. For each class period, you will find a shared Google Doc linked on the schedule. We will use these documents to complete two tasks related to our readings: first the preparation you will do before class, and second the collaborative note-taking we will do together in class. I describe each below. All of our weekly notes will be [collected in this folder](https://drive.google.com/drive/folders/1kekQ8eUi-hBZ-jAk0-dey7NoVUgcBk3s?usp=sharing). _Note: this folder expects you to use an UIUC email to access it. If you prefer to use a different Google Account, please let me know so I can manually add you to the folder_
+
+The readings for each discussion section are on the heavy side, but keep in mind that we alternate between discussion and lab weeks, so you will have approximately two weeks to prepare readings between each discussion section. 
 
 ## 1. Before Class: Discussion Prep
 
 ### Assignment Overview
 
-+ Weekly
++ (roughly) Bi-weekly
 + Students work individually
 + 3 declarative and/or interrogative sentences each week
 + Added to the week's shared Google Doc, under the heading "Discussion Prep"
@@ -22,9 +24,9 @@ For each class period, you will find a shared Google Doc linked on the schedule.
 
 ### Assignment Details
 
-For each week of class there are readings listed under _Core_ and _Penumbra_. The core readings are just that: central to the week's discussion and lab. Everyone should read these closely and prepare to discuss them. The penumbral readings try to capture a broader spectrum of scholarship pertinent to each week's theme, which I could not require because time is, sadly, finite. Each week you should choose one of the penumbral readings, based on your own interests, to read and be prepared to reference as a means of expanding our conversation together.
+For each discussion week of class there are readings listed under _Core_ and _Penumbra_. The core readings are just that: central to that class topic. Everyone should read these closely and prepare to discuss them. The penumbral readings try to capture a broader spectrum of scholarship pertinent to the week's theme, which I could not require because time is, sadly, finite. Each discussion week you should choose one of the penumbral readings, based on your own interests, to read and be prepared to reference as a means of expanding our conversation together.
 
-To prepare for our discussions, each week you should draft 2-3 substantial questions or critical observations that highlight details of interest from the core (and your chosen penumbral) readings, connect ideas across the week's readings (or even across different weeks), or probe the boundaries or limitations of the assigned texts. The goal of this assignment is not to test your knowledge of our readings, but to prompt dialog, so I try not to be prescriptive. In general, however, your discussion prep should:
+To prepare for our discussions, each discussion week you should draft 2-3 substantial questions or critical observations that highlight details of interest from the core (and your chosen penumbral) readings, connect ideas across the week's readings (or even across different weeks), or probe the boundaries or limitations of the assigned texts. The goal of this assignment is not to test your knowledge of our readings, but to prompt dialog, so I try not to be prescriptive. In general, however, your discussion prep should:
 
 1.  Get beyond basic questions or observations of fact and instead work toward questions or observations of significance.
 2.  Demonstrate close thought about the frameworks of our texts, as well as about the relationships among them.
@@ -34,16 +36,23 @@ To prepare for our discussions, each week you should draft 2-3 substantial quest
 
 Particularly in a graduate class, students are often tempted to write 3 lengthy paragraphs, but I _strongly urge_ you stick to 3 well-developed sentences, either declarative (an observation) or interrogative (a question). 
 
+Keep in mind that our discussion sections are bi-weekly, with the exception of weeks one and two, so you will generally have two weeks to prepare readings.
+
 ## 2. During Class: Collaborative Note-Taking
 
 ### Assignment Overview
 
 + Weekly
 + Students work together
-+ Added to the week's shared Google Doc, under the heading "Discussion Notes"
++ Added to the week's shared Google Doc, under the heading "Discussion Notes" or "Lab Notes"
 + Each student should add their initials to substantive additions
 + Written during the pertinent class period
 
 ### Assignment Details
 
-As we discuss together, you should seek to contribute to our collective notes in the week's Google Doc. This is an opportunity to share your thoughts asynchronously as our conversations develop. you are encouraged to share questions, reflections, and ideas that emerge from the readings and from mine and your colleague's comments. You are also encouraged to share relevant materials for that week’s readings in the document—anything from social media links to newly published scholarship—and to comment on one another’s contributions. Combined with the discussion prep, these collective syntheses become a sort of annotated bibliography and brainstorming resource you can use while working on your projects and after the course as well.
+As we discuss together, you should seek to contribute to our collective notes in the week's Google Doc. This is an opportunity to share your thoughts asynchronously as our conversations develop. 
+
+1. For our discussion sections, I encouraged you to share questions, reflections, and ideas that emerge from the readings, from my framing commentary, and from your colleague's comments. I also encourage you to share relevant materials for that week’s readings in the document—anything from social media links to newly published scholarship—and to comment on one another’s contributions.
+2. For lab sections, feel free to add any realizations, tips and tricks, or additional resources that might help your colleagues with that week's technology and activity. 
+
+Combined with the discussion prep, these collective syntheses become a sort of annotated bibliography and brainstorming resource you can use while working on your final projects, as well as after the course ends.

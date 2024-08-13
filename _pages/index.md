@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
-  overlay_image: /assets/images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg
+  overlay_image: /assets/images/IllinoisCSO1x80cream.jpg
   actions:
     - label: "<i class='fas fa-link'></i> Link to iSchool Course Listing"
       url: "https://ischool.illinois.edu/degrees-programs/courses/is578"
@@ -16,10 +16,10 @@ toc_sticky: true
 title: 'IS578: Introduction to Digital Humanities'
 sidebar:
   - title: "Office Hours"
-    text: "By appointment or TBD"
+    text: "Thursdays 1-2pm or by appointment"
     nav: sidebar-sample
   - title: "Class Meetings"
-    text: "Thursdays 4:00pm-6:00 pm CST"
+    text: "Thursdays 4:00pm-6:00pm CST"
     nav: sidebar-sample
 ---
 
