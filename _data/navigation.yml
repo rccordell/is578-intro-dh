@@ -64,21 +64,21 @@ assessments:
   #      url: /materials/intro-web/01-intro-html/
   #    - title: "Introduction to the Web & Static Sites"
   #      url: /materials/intro-web/02-intro-websites/
-     
-schedule:
+
+ schedule:
   - title: "Course Schedule"
-    children:
+    children:   
       - title: "Schedule Overview"
-      url: /schedule/00-overview
+        url: /schedule/00-overview
       - title: "<b>August 29</b><br> What is Digital Humanities (in 2024)?"
-      url: /schedule/01-what-is-dh
+        url: /schedule/01-what-is-dh
       - title: "<b>September 5</b><br> What is Humanities Data?"
-      url: /schedule/02-data
+        url: /schedule/02-data
       - title: "<b>September 12</b><br> Lab: 3 Ways of Looking at DH Data"
-      url: /schedule/03-data-lab
+        url: /schedule/03-data-lab
       - title: "<b>September 19</b><br> Text as Data"
-      url: /schedule/04-text
+        url: /schedule/04-text
       - title: "<b>September 26</b><br> Lab: Analyzing Text"
-      url: /schedule/05-text-lab
+        url: /schedule/05-text-lab
       - title: "<b>October 3</b><br> Images & Visualization"
-      url: 
+        url: 
