@@ -66,7 +66,7 @@ assessments:
   #      url: /materials/intro-web/02-intro-websites/
 
  schedule:
-  - title: "Course Schedule"
+  - title: "Schedule"
     children:   
       - title: "Schedule Overview"
         url: /schedule/00-overview
