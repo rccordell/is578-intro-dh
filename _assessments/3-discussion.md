@@ -1,6 +1,6 @@
 ---
 title: "Discussion Prep & Collaborative Note-taking"
-permalink: /assessments/03-discussion
+permalink: /assessments/3-discussion
 toc: true
 toc_sticky: true
 ---

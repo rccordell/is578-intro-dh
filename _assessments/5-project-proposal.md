@@ -1,6 +1,6 @@
 ---
 title: "DH Project Proposal"
-permalink: /assessments/05-project-proposal
+permalink: /assessments/5-project-proposal
 toc: true
 toc_sticky: true
 ---

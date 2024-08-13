@@ -1,6 +1,6 @@
 ---
 title: "Lab Reports"
-permalink: /assessments/03-discussion
+permalink: /assessments/4-lab-reports
 toc: true
 toc_sticky: true
 ---

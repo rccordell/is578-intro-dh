@@ -1,6 +1,6 @@
 ---
 title: "Grading and Assessment"
-permalink: /assessments/02-assessment
+permalink: /assessments/2-assessment
 toc: true
 toc_sticky: true
 ---
