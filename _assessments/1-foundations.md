@@ -4,6 +4,8 @@ permalink: /assessments/1-foundations
 classes: wide
 ---
 
+You can find a list of assignments and this course's grading policy in the navigation menu to the left. But first, let's set the foundations for our class together.
+
 ## Setting the Foundation: Flexibility, Commitments, and Intellectual Journeys
 
 What does it mean to do “assignments” or be assessed as a graduate student? Ideally this question wouldn’t matter, and you enrolled in this course with a deep, self-motivating passion for digital humanities research, so grading would be of minimal concern. In reality, we know that grades have enormous influence in both how we have been taught to value ourselves and in turn how society often values us. While I cannot wave a magic wand and restructure society, I do want to address this situation explicitly for a few reasons. 

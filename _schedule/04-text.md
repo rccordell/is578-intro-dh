@@ -1,6 +1,6 @@
 ---
-title: "DH Data"
-permalink: /schedule/3a-text/
+title: "Text as Data"
+permalink: /schedule/04-text/
 toc: true
 class_date: 2024-09-19
 ---
@@ -8,6 +8,8 @@ class_date: 2024-09-19
 ## Discussion Topic
 
 _Many genealogies of DH put text not just at the center of the field, but a its origins, as scholars created digital editions of literary and historical works and experimented with computational analysis of those materials. From literary corpora to political documents to social media, text continues to be a central data form to the digital humanities, even as methods expand to include more visual, aural, and other data forms._
+
+#### [Discussion Prep and Collaborative Notes Document](https://docs.google.com/document/d/1NaGiAvhIR08hGi_WQW0xqpLRHIQTSgZ1D8OBSTIggSo/edit?usp=sharing)
 
 ### Core
 

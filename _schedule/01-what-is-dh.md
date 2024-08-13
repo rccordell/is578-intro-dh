@@ -1,6 +1,6 @@
 ---
 title: "What is Digital Humanities (in 2024)?"
-permalink: /schedule/1-what-is-dh/
+permalink: /schedule/01-what-is-dh/
 toc: true
 class_date: 2024-08-29
 ---
@@ -9,7 +9,7 @@ class_date: 2024-08-29
 
 _What is DH? How do we define fields and practices? How will this course operate and introduce you to DH?_
 
-[Discussion Prep & Collaborative Notes Doc](https://docs.google.com/document/d/1j_RcRooaOBLVxvCRGmiI2VEeqqrgpvt3Q-78UiVcd24/edit?usp=sharing)
+#### [Discussion Prep & Collaborative Notes Doc](https://docs.google.com/document/d/1j_RcRooaOBLVxvCRGmiI2VEeqqrgpvt3Q-78UiVcd24/edit?usp=sharing)
 
 ### Core
 

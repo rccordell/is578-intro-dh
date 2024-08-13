@@ -1,6 +1,6 @@
 ---
 title: "Lab #2: Analyzing Text Data"
-permalink: /schedule/3b-text-lab/
+permalink: /schedule/05-text-lab/
 toc: true
 class_date: 2024-09-12
 ---

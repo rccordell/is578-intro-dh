@@ -1,6 +1,6 @@
 ---
-title: "DH Data"
-permalink: /schedule/2a-data/
+title: "What is Humanities Data?"
+permalink: /schedule/02-data/
 toc: true
 class_date: 2024-09-05
 ---
@@ -8,6 +8,8 @@ class_date: 2024-09-05
 ## Discussion Topic
 
 _What is humanities data? How do we work with data in DH? How do we create or discover datasets? What does it mean to transform historic and cultural objects into data?_
+
+[Discussion Prep and Collaborative Notes Doc](https://docs.google.com/document/d/13g2Y1ZB0ORPhTON0dVRp6idSSqDeoTR4R2iAMTgBpEQ/edit?usp=sharing)
 
 ### Core
 
