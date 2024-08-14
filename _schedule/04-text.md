@@ -13,14 +13,14 @@ _Many genealogies of DH put text not just at the center of the field, but a its 
 
 ### Core
 
-+ Michael Whitmore, "Text: A Massively Addressable Object," _Debates in the Digital Humanities_ (2012), [external link](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a#p4b3)
++ Choose any 2 pieces (they're all short) from the [_Debates in the Digital Humanities 2016_](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2016) forum, "Text Analysis at Scale"
 + Melanie Walsh and Maria Antoniak, “The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism” (2021), [external link](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)
 + Sathvika Anand, Quinn Dombrowski, and Xanda Schofield, _DSC /#20: Xanda Rescues the Topic Model Disaster_, [external link](https://datasittersclub.github.io/site/dsc20.html)
 + Avery Blankenship, "What We Didn’t Know a Recipe Could Be: Political Commentary, Machine Learning Models, and the Fluidity of Form in Nineteenth-Century Newspaper Recipes" (2024), [external link](https://culturalanalytics.org/article/115371-what-we-didn-t-know-a-recipe-could-be-political-commentary-machine-learning-models-and-the-fluidity-of-form-in-nineteenth-century-newspaper-recipe)
 
 ### Penumbra
 
-+ Choose any 2 pieces (they're all short) from the [_Debates in the Digital Humanities 2016_](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2016) forum, "Text Analysis at Scale"
++ Michael Whitmore, "Text: A Massively Addressable Object," _Debates in the Digital Humanities_ (2012), [external link](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a#p4b3)
 + Katherine Bode, "Abstraction, Singularity, Textuality: The Equivalence of 'Close' and 'Distant' Reading" from _A World of Fiction_ (2018), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctvdtpj1d.5?seq=3#metadata_info_tab_contents)
 + Scott B. Weingart, "The Route of a Text Message, a Love Story" (2019), [external link](https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story)
 + David A. Smith and Ryan Cordell, "Textual Criticism as Language Modeling" in [_Going the Rounds: Virality in Nineteenth-Century Newspapers_](https://manifold.umn.edu/projects/going-the-rounds) (2019), [external link](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4)

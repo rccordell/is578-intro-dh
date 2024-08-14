@@ -13,23 +13,28 @@ sidebar:
 
 ### Caveat Emptor
 
-I am committed to teaching digital humanities as an applied field, and so you should be aware of the following caveats as we begin. Thanks to Miriam Posner for [writing the first draft](http://dh201.humanities.ucla.edu/2013/#why) of these caveats for her DH grad course. If you can face these challenges with persistence, verve, and (reasonably) good humor—and abide by the code of conduct outlined below—we should have an intellectually enlivening semester. If you have any concerns about these caveats, please come talk to me. I am confident we can find a way forward if we work together. 
+I am committed to teaching digital humanities as an applied field, and so you should be aware of the following caveats as we begin. Thanks to Miriam Posner for [writing the first draft](http://dh201.humanities.ucla.edu/2013/#why) of these caveats for her DH grad course nearly a decade ago. If you can face these challenges with persistence, verve, and (reasonably) good humor—and abide by the code of conduct outlined below—we should have an intellectually enlivening semester. If you have any concerns about these caveats, please come talk to me. I am confident we can find a way forward if we work together. 
 
 #### 1. You will be required to acquire some technical skills.
 
-I do not require or assume any particular technical experience as we begin this course, but I will expect you to be willing to experiment with new tools and learn new technical skills throughout the semester. “I’m not very technical” will not excuse you from the hands-on portions of the course any more than “I’m not poetic” would excuse you from reading Dickinson in a survey of American literature. Some of the tools we test you may find useful for your research, teaching, or professional work; some you will not. But I expect you to try them with enthusiasm and an open mind.
+I do not require or assume any particular technical experience as we begin this course, but I will expect you to be willing to experiment with new tools and learn new technical skills throughout the semester. “I’m not very technical” will not excuse you from the hands-on portions of the course any more than “I’m not poetic” would excuse you from reading Emily Dickinson in a survey of American literature. Some of the tools we test you may find useful for your research, teaching, or professional work; some you will not. But I expect you to try them with enthusiasm and an open mind.
 
 #### 2. The course will itself be an experiment.
 
 By combining theory and praxis, a course such as this opens itself up to many quirks: the syllabus may shift; a given tool might not work as expected; an experiment might veer off track or fail altogether. In other words, this course will require both an inventive spirit and patience from its students.
 
-#### 3. You will not produce a final seminar paper.
+#### 3. You may (and perhaps _should_) do different things.
+
+This course has no set prerequisites, and students come to it with a range of backgrounds, goals, and prior technical expertise. The primary challenge in teaching this course is balancing students' distinct aptitudes and needs: I neither want to leave students new to particular technologies behind, nor for students with prior experience to feel unchallenged. While our labs will be structured to presume no prior experience, every lab could be approached differently by those with expertise. For example, while I'll likely teach our network analysis lab using Gephi (a GUI application), one could very easily experiment with network libraries in Python or R instead. This course will benefit you most in the long term if you challenge yourself rather than settling for the easiest option, and if you use our labs to extend your capabilities rather than repeat what you already know. As I describe more fully in the [grading and assessment]({{site.baseurl}}/assessments/2-assessment) section, I am committed to recognizing and supporting such efforts, even if they "fail."
+
+#### 4. You will not produce a final seminar paper.
 
 You will produce a final, collaborative "project proposal" that will ask you to consider what facet of DH you could imagine exploring further. Likely this project will require substantial writing, but it will not look like a 20 page seminar paper at semester’s end. They will ask you to consider both theoretical and practical aspects of creating a DH project and may include thinking about things such as staffing, budgets, and technical capacities. These projects may well lead into more established forms of writing or publication, but we will not begin there. 
 
-#### 4. You will collaborate (not just do group work).
+#### 5. You will collaborate (not just do group work).
 
-Digital humanities projects often require collaboration among scholars who bring different intellectual and technical skills to expansive projects. This class will require you to work together both in class and for some of your assignments, distributing responsibilities and sharing credit. This will include the final project described in #3!
+Digital humanities projects often require collaboration among scholars who bring different intellectual and technical skills to expansive projects. This class will require you to work together both in class and for some of your assignments, distributing responsibilities and sharing credit. This will include the final project proposal described in #4!
+
 
 ### Code of Conduct
 
