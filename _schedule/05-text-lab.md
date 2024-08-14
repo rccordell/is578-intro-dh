@@ -1,5 +1,5 @@
 ---
-title: "Lab #2: Analyzing Text Data"
+title: "Lab: Analyzing Text Data"
 permalink: /schedule/05-text-lab/
 toc: true
 class_date: 2024-09-12
@@ -15,4 +15,4 @@ Lab instructions coming soon!
 
 ### Resources
 
- Coming soon.
++ _Programming Historian_'s list of [distant reading lessons](https://programminghistorian.org/en/lessons/?topic=distant-reading)

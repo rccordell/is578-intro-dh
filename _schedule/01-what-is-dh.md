@@ -7,7 +7,7 @@ class_date: 2024-08-29
 
 ## Discussion Topic
 
-_What is DH? How do we define fields and practices? How will this course operate and introduce you to DH?_
+_"What is digital humanites?" has been a perpetual question since the field emerged—so much so that many, [including your professor](https://dhdebates.gc.cuny.edu/read/untitled/section/31326090-9c70-4c0a-b2b7-74361582977e), have long been exasperated by it. DH is big and sprawling, to be sure, but in 2024 there have been (at least) twenty years of definitions, conferences, journals, and collections that we can use to sketch DH's broad commonalities, as well as to trace its distinct genealogies and communities of practice. For today's class, then, we'll not work to come up with a singular, universalizing definition—a task that would be challenge for **any** academic field—but instead to try and outline the evolving contours of the communities that have gathered under—or challenged, or rejected—the banner of "digital humanities" over the past two decades._
 
 #### [Discussion Prep & Collaborative Notes Doc](https://docs.google.com/document/d/1j_RcRooaOBLVxvCRGmiI2VEeqqrgpvt3Q-78UiVcd24/edit?usp=sharing)
 
@@ -24,19 +24,21 @@ _What is DH? How do we define fields and practices? How will this course operate
 
 ### Penumbra
 
-_Remember, you should choose **one** penumbral reading to prepare in detail, though you are of course free to read more._
+_Remember, you should choose **one** penumbral reading to prepare in detail, based on your own interests and/or career goal(s), though you are of course free to read more. This week we have an especially large list because there have been so many introductions to DH. This is, if you can believe it, still only a sampling._
 
++ Susan Schreibman, Ray Siemens, and John Unsworth, The Digital Humanities and Humanities Computing: An Introduction" in _A Companion to Digital Humanities_ (2004), [external link](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_intro.html)
 + Matthew K. Gold, “Introduction: The Digital Humanities Moment,” _Debates in the Digital Humanities_ (2012), [external link](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/fcd2121c-0507-441b-8a01-dc35b8baeec6)
 + Browse Jason A. Heppler, “What Is Digital Humanities?” (2015), [external link](https://whatisdigitalhumanities.com/) 
-+ Lauren F. Klein and Matthew K. Gold, “Introduction: Digital Humanities: The Expanded Field,” _Debates in the Digital Humanities 2016_, [external link](https://dhdebates.gc.cuny.edu/read/untitled/section/14b686b2-bdda-417f-b603-96ae8fbbfd0f)
++ Lauren F. Klein and Matthew K. Gold, “Introduction: Digital Humanities: The Expanded Field,” in _Debates in the Digital Humanities 2016_, [external link](https://dhdebates.gc.cuny.edu/read/untitled/section/14b686b2-bdda-417f-b603-96ae8fbbfd0f)
++ Ryan Cordell, "How Not to Teach Digital Humanities," in _Debates in the Digital Humanities 2016_, [external link](https://dhdebates.gc.cuny.edu/read/untitled/section/31326090-9c70-4c0a-b2b7-74361582977e)
 + Scott B. Weingart and Nickoal Eichmann-Kalwara, "What’s Under the Big Tent?: A Study of ADHO Conference Abstracts" (2017), [external link](https://www.digitalstudies.org/article/id/7312/)
 + Jacqueline Wernimont and Elizabeth Losh, ["Introduction,"](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/466311ae-d3dc-4d50-b616-8b5d1555d231#intro) in _Bodies of Information: Intersectional Feminism and Digital Humanities_ (2018)
 + Laure Barbot, Frank Fischer, Yoann Moranville, and Ivan Pozdniakov.,“Which DH Tools Are Actually Used in Research?” (2019), [external link](https://weltliteratur.net/dh-tools-used-in-research/)
 + Kelly Baker Josephs and Roopika Risam, "Introduction: The Digital Black Atlantic" in _The Digital Black Atlantic_ (2021), [external link](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/04315759-6622-466b-b23f-0b2a565b4f81#intro)
 + Anne McGrail, Angel David Nieves, and Siobhan Senier, "Introduction" to _People, Practice, Power: Digital Humanities Outside the Center_ (2021), [external link](https://dhdebates.gc.cuny.edu/read/people-practice-power/section/90aa6320-4ab1-4a1d-8314-f9bf309c0d7f#intro)
++ Ian Milligan, "The Transformation of Historical Research in the Digital Age," in _The Transformation of Historical Research in the Digital Age_ (2022), [external link](https://www.cambridge.org/core/elements/transformation-of-historical-research-in-the-digital-age/30DFBEAA3B753370946B7A98045CFEF4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
 + Domenico Fiormonte, Paola Ricaurte, and Sukanta Chaudhuri, "Introduction" to _Global Debates in the Digital Humanities_ (2022), [external link](https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/e8110c52-f084-44d2-a29f-1ef4525ad1fe#intro)
 + Brian Croxall and Diane K. Jakacki, "What We Teach When We Teach DH," in _What We Teach When We Teach DH_ (2023) [external link](https://dhdebates.gc.cuny.edu/read/what-we-teach-when-we-teach-dh/section/c2790674-f5bb-41b7-9938-a47a4d2fb308#intro)
-
 
 ### Also Consider
 

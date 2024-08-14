@@ -17,9 +17,6 @@ Lab instructions coming soon!
 
 ### Resources
 
-+ Seth van Hooland, Ruben Verborgh, and Max De Wilde, "Cleaning Data with OpenRefine," _Programming Historian_ (2013), [external link](https://doi.org/10.46430/phen0023).
-+ Doug Knox, "Understanding Regular Expressions," _Programming Historian_ (2013), [external link](https://doi.org/10.46430/phen0033).
-+ M. H. Beals, "Transforming Data for Reuse and Re-publication with XML and XSL," _Programming Historian_ (2016), [external link](https://doi.org/10.46430/phen0097).
-+ Evan Peter Williamson, "Fetching and Parsing Data from the Web with OpenRefine," _Programming Historian_ (2017), [external link](https://doi.org/10.46430/phen0065).
++ _Programming Historian_'s list of [data manipulation lessons](https://programminghistorian.org/en/lessons/?topic=data-manipulation) and [data management lessons](https://programminghistorian.org/en/lessons/?topic=data-management)
 + David J. Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML" (2021), [external link](http://dh.obdurodon.org/what-is-xml.xhtml)
 + Elisa Beshero-Bondar, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam, _DSC /#5: The DSC and the Impossible TEI Quandaries_ (2020), [external link](https://datasittersclub.github.io/site/dsc5.html)

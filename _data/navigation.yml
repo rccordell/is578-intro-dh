@@ -40,3 +40,11 @@ schedule:
         url: /schedule/04-text
       - title: "<b>September 26</b><br> Lab: Analyzing Text"
         url: /schedule/05-text-lab
+      - title: "<b>October 3</b><br> Humanities Data Perspectives"
+        url: /schedule/06-viz
+      - title: "<b>October 10</b><br> Lab: Visualizing Networks"
+        url: /schedule/07-viz-lab
+
+
+
+        

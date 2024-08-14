@@ -26,8 +26,8 @@ Keep in mind that our weeks (mostly) alternate between discussion and lab sectio
 | 3 | September 12 | Lab | [3 Ways of Looking at Humanities Data]({{site.baseurl}}/schedule/03-data-lab) |
 | 4 | September 19 | Discussion | [Text as Data]({{site.baseurl}}/schedule/04-text) |
 | 5 | September 26 | Lab | [Analyzing Text]({{site.baseurl}}/schedule/05-text-lab) |
-| 6 | October 3 | Discussion | Images & Visualization |
-| 7 | October 10 | Lab | Visualization | 
+| 6 | October 3 | Discussion | [Humanities Data Perspectives]({{site.baseurl}}/06-viz) |
+| 7 | October 10 | Lab | [Visualizing Networks]({{site.baseurl}}/07-viz-lab) | 
 | 8 | October 17 | Discussion | Maps & Networks | 
 | 9 | October 24 | Lab | Maps & Networks | 
 | 10 | October 31 | Discussion | Critical Making & DH |
