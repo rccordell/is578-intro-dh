@@ -7,6 +7,8 @@ class_date: 2024-10-10
 
 ## Lab Topic
 
+#### [Collaborative Lab Notes Doc](https://docs.google.com/document/d/15-vDrETg9c1xSr440KP0f1zBvEgvygwCS01D4PjnPLU/edit?usp=sharing)
+
 ### Instructions
 
 Lab instructions coming soon!

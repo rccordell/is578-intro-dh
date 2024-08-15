@@ -44,6 +44,14 @@ schedule:
         url: /schedule/06-viz
       - title: "<b>October 10</b><br> Lab: Visualizing Networks"
         url: /schedule/07-viz-lab
+      - title: "<b>October 17</b><br> DH's Next Top Model"
+        url: /schedule/08-models
+      - title: "<b>October 24</b><br> Lab: DH + AI = ?"
+        url: /schedule/09-models-lab
+      - title: "<b>October 31</b><br> Making DH Manifest"
+        url: /schedule/10-making
+      - title: "<b>November 7</b><br> Lab: #DH Makes"
+        url: /schedule/11-making-lab
 
 
 

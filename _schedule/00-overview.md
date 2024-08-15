@@ -19,20 +19,20 @@ This overview gives a top level view of the topics for each of our meetings. You
 
 Keep in mind that our weeks (mostly) alternate between discussion and lab sections. Please see the [discuss prep assignment]({{site.baseurl}}/assessments/3-discussion) for a detailed description of how you should approach the "Core" and "Penumbral" readings each discussion week.
 
-| Week # | Date | Type | Topic |
-| :-- | :---- | :---: | --------:| 
-| 1 | August 29 | Orientation | [What is DH (in 2024)?]({{site.baseurl}}/schedule/1-what-is-dh) | 
-| 2 | September 5 | Discussion | [What is Humanities Data?]({{site.baseurl}}/schedule/02-data) |
-| 3 | September 12 | Lab | [3 Ways of Looking at Humanities Data]({{site.baseurl}}/schedule/03-data-lab) |
-| 4 | September 19 | Discussion | [Text as Data]({{site.baseurl}}/schedule/04-text) |
-| 5 | September 26 | Lab | [Analyzing Text]({{site.baseurl}}/schedule/05-text-lab) |
-| 6 | October 3 | Discussion | [Humanities Data Perspectives]({{site.baseurl}}/06-viz) |
-| 7 | October 10 | Lab | [Visualizing Networks]({{site.baseurl}}/07-viz-lab) | 
-| 8 | October 17 | Discussion | Maps & Networks | 
-| 9 | October 24 | Lab | Maps & Networks | 
-| 10 | October 31 | Discussion | Critical Making & DH |
-| 11 | November 7 | Lab | #DHMakes |
-| 12 | November 14 | Discussion | Class Choice |
-| 13 | November 21 | Lab | Class Choice |
+| Week | Date | Type | Topic |
+| :-- | :--- | :---: | --------:| 
+| 1 | Aug 29 | Orientation | [What is DH (in 2024)?]({{site.baseurl}}/schedule/1-what-is-dh) | 
+| 2 | Sep 5 | Discussion | [What is Humanities Data?]({{site.baseurl}}/schedule/02-data) |
+| 3 | Sep 12 | Lab | [3 Ways of Looking at Humanities Data]({{site.baseurl}}/schedule/03-data-lab) |
+| 4 | Sep 19 | Discussion | [Text as Data]({{site.baseurl}}/schedule/04-text) |
+| 5 | Sep 26 | Lab | [Analyzing Text]({{site.baseurl}}/schedule/05-text-lab) |
+| 6 | Oct 3 | Discussion | [Humanities Data Perspectives]({{site.baseurl}}/06-viz) |
+| 7 | Oct 10 | Lab | [Visualizing Networks]({{site.baseurl}}/07-viz-lab) | 
+| 8 | Oct 17 | Discussion | Models of Culture | 
+| 9 | Oct 24 | Lab | DH + AI = ? | 
+| 10 | Oct 31 | Discussion | Critical Making & DH |
+| 11 | Nov 7 | Lab | #DHMakes |
+| 12 | Nov 14 | Discussion | Class Choice |
+| 13 | Nov 21 | Lab | Class Choice |
 | - | Nov 23-Dec 1 | Break | Fall Vacation | 
-| 14 | December 5 | Closing | Project Presentations | 
+| 14 | Dec 5 | Closing | Project Presentations | 
