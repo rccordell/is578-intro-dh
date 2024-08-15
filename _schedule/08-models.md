@@ -14,8 +14,8 @@ _The idea of "models" has already come up regularly in our readings and discussi
 ### Core
 
 + Richard Jean So, “All Models are Wrong” (2017), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/27037381)
++ Taylor Arnold, Lauren Tilton, and Annie Berke, ["Visual Style in Two Network Era Sitcoms,"](https://culturalanalytics.org/article/11045) *Cultural Analytics* (2019)
 + Sathvika Anand, Quinn Dombrowski, and Xanda Schofield, _DSC /#20: Xanda Rescues the Topic Model Disaster_ (2023), [external link](https://datasittersclub.github.io/site/dsc20.html)
-+ Sandeep Soni, Lauren F. Klein, and Jacob Eisenstein, “Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers” (2021), [external link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
 + Ted Underwood, “Mapping the Latent Spaces of Culture” (2021), [external link](https://tedunderwood.com/2021/10/21/latent-spaces-of-culture/)
 + Kent K. Chang, Mackenzie Cramer, Sandeep Soni, and David Bamman, "Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4" (2023), [external link](https://arxiv.org/abs/2305.00118)
 
@@ -28,6 +28,7 @@ _The idea of "models" has already come up regularly in our readings and discussi
 +  Eun Seo Jo and Timnit Gebru, "Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning"(2020), [external link](http://arxiv.org/abs/1912.10389)
 +  Ryan Cordell, "Machine Learning + Libraries: A Report on the State of the Field" (2020), [external link](https://blogs.loc.gov/thesignal/2020/07/machine-learning-libraries-a-report-on-the-state-of-the-field/)
 +  Elizabeth Callaway, Jeffrey Turner, Heather Stone, and Adam Halstrom, “The Push and Pull of Digital Humanities: Topic Modeling the What Is Digital Humanities? Genre” (2020), [external link](https://www.digitalhumanities.org/dhq/vol/14/1/000450/000450.html)
++  Sandeep Soni, Lauren F. Klein, and Jacob Eisenstein, “Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers” (2021), [external link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
 +  Lauren M. E. Goodlad and Samuel Baker, "Now the Humanities Can Disrupt 'AI'" (2023), [external link](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)
 +  Heather Froehlich, "What Do Librarians Need to Know About Quantiative Methods in Digital Humanities?" in _Digital Humanities in the Library_ (2024), [library link](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=31260945&ppg=32)
 +  Peiqi Sui, Eamon Duede, Sophie Wu, and Richard Jean So, "Confabulation: The Surprising Value of Large Language Model Hallucinations" (2024), [external link](https://arxiv.org/abs/2406.04175)
