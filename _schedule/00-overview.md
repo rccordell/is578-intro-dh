@@ -21,7 +21,7 @@ Keep in mind that our weeks (mostly) alternate between discussion and lab sectio
 
 | Week | Date | Type | Topic |
 | :-- | :--- | :---: | --------:| 
-| 1 | Aug 29 | Orientation | [What is DH (in 2024)?]({{site.baseurl}}/schedule/1-what-is-dh) | 
+| 1 | Aug 29 | Orientation | [What is DH (in 2024)?]({{site.baseurl}}/schedule/01-what-is-dh) | 
 | 2 | Sep 5 | Discussion | [What is Humanities Data?]({{site.baseurl}}/schedule/02-data) |
 | 3 | Sep 12 | Lab | [3 Ways of Looking at Humanities Data]({{site.baseurl}}/schedule/03-data-lab) |
 | 4 | Sep 19 | Discussion | [Text as Data]({{site.baseurl}}/schedule/04-text) |
