@@ -26,12 +26,12 @@ Keep in mind that our weeks (mostly) alternate between discussion and lab sectio
 | 3 | Sep 12 | Lab | [3 Ways of Looking at Humanities Data]({{site.baseurl}}/schedule/03-data-lab) |
 | 4 | Sep 19 | Discussion | [Text as Data]({{site.baseurl}}/schedule/04-text) |
 | 5 | Sep 26 | Lab | [Analyzing Text]({{site.baseurl}}/schedule/05-text-lab) |
-| 6 | Oct 3 | Discussion | [Humanities Data Perspectives]({{site.baseurl}}/06-viz) |
-| 7 | Oct 10 | Lab | [Visualizing Networks]({{site.baseurl}}/07-viz-lab) | 
-| 8 | Oct 17 | Discussion | [Models of Culture]({{site.baseurl}}/08-models) | 
-| 9 | Oct 24 | Lab | [DH + AI = ?]({{site.baseurl}}/09-models-lab) | 
-| 10 | Oct 31 | Discussion | [Critical Making & DH]({{site.baseurl}}/10-making) |
-| 11 | Nov 7 | Lab | [#DHMakes]({{site.baseurl}}/11-making-lab) |
+| 6 | Oct 3 | Discussion | [Humanities Data Perspectives]({{site.baseurl}}/schedule/06-viz) |
+| 7 | Oct 10 | Lab | [Visualizing Networks]({{site.baseurl}}/schedule/07-viz-lab) | 
+| 8 | Oct 17 | Discussion | [Models of Culture]({{site.baseurl}}/schedule/08-models) | 
+| 9 | Oct 24 | Lab | [DH + AI = ?]({{site.baseurl}}/schedule/09-models-lab) | 
+| 10 | Oct 31 | Discussion | [Critical Making & DH]({{site.baseurl}}/schedule/10-making) |
+| 11 | Nov 7 | Lab | [#DHMakes]({{site.baseurl}}/schedule/ 11-making-lab) |
 | 12 | Nov 14 | Discussion | Class Choice |
 | 13 | Nov 21 | Lab | Class Choice |
 | - | Nov 23-Dec 1 | Break | Fall Vacation | 
