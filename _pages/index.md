@@ -32,7 +32,6 @@ To begin addressing these big topics, IS578DH will take “humanities data” as
 
 Each week students will be introduced to new topics and methods in DH, and therefore, this course assumes no previous experience with digital humanities, or working with data and digital tools. Given that this course is in an iSchool, it will also be oriented towards how digital humanities intersects with Library and Information Sciences. In particular, students will have the opportunity to develop their own DH workshop, as a basis for either a future public DH workshop, or eventually DH projects or publications. Overall, the goal of this course is to introduce students to some of the latest developments in DH and help them navigate this shifting terrain of how we work in digital humanities.
 
-
 ## Overall Learning Objectives 
 
 Upon successful completion of the course, students will:
@@ -40,7 +39,6 @@ Upon successful completion of the course, students will:
 - Gain an overview of the breadth of digital humanities research; develop a critical perspective to working with humanities data; and an introduction to some of the more popular methods and tools in digital humanities
 - Craft a digital humanities workshop that could, if students choose, serve as the foundation for publishable future DH projects
 - Ultimately, the course aims to marry theoretical and practical approaches in a way that will equip students to comfortably experiment with new DH technologies and theories in the future.
-
 
 ## Acknowledgements
 
