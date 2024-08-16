@@ -20,3 +20,5 @@ Lab instructions coming soon!
 + _Programming Historian_'s list of [data manipulation lessons](https://programminghistorian.org/en/lessons/?topic=data-manipulation) and [data management lessons](https://programminghistorian.org/en/lessons/?topic=data-management)
 + David J. Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML" (2021), [external link](http://dh.obdurodon.org/what-is-xml.xhtml)
 + Elisa Beshero-Bondar, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam, _DSC /#5: The DSC and the Impossible TEI Quandaries_ (2020), [external link](https://datasittersclub.github.io/site/dsc5.html)
++ Matthew D. Lincoln, Scott B. Weingart, and Nickoal Eichmann-Kalwara,“The Index of Digital Humanities Conferences,” (2021), [external link](https://doi.org/10.5334/johd.26)
++ "Responsible Datasets in Context" (2024), [external link](https://www.responsible-datasets-in-context.com)
