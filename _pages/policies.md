@@ -55,6 +55,14 @@ The code of conduct for this course borrows directly from the stellar model outl
     + Advocating for, or encouraging, any of the above behavior.
     + Repeated harassment of others. In general, if someone asks you to stop, then stop.
 
+### Zoom & Camera Policy
+
+This is an online course, but it is at heart a _discussion based seminar_. While I will have context to offer on many our topics and readings, I will not lecture on any day. Our discussion sections are just that: discussions among the group, stemming from our readings and [the questions you will pose in your discussion prompts]({{site.baseurl}}/assessments/3-discussion). 
+
+I understand the many reasons why students choose to keep their cameras off on Zoom. I often keep my camera off in big group meetings, where it can be exhausting to perform for the cameras for long periods when there is no indication anyone is paying attention. At the same time, teaching is at some level a performance, and it would be impossible to overstate how difficult is is to teach enthusiastically and effectively when staring at a panel of silent, black squares. Watching faces and hearing voices are key ways that humans assess engagement, and both I and your colleagues will benefit from both. In class, I will be paying attention to your faces and voices to determine what is and isn't making sense, when we might need to change direction, and how each discussion is progressing.
+
+To that end, while I will not require you to keep cameras on at all times, I would ask that you do so _whenever possible_, and particularly when you are actively contributing to our discussion. 
+
 ### Academic Integrity*
 
 The iSchool has the responsibility for maintaining academic integrity so as to protect the quality of education and research in our school and to protect those who depend on our integrity. Consequences of academic integrity infractions may be serious, ranging from a written warning to a failing grade for the course or dismissal from the University.
