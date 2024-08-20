@@ -16,7 +16,7 @@ toc_sticky: true
 title: 'IS578: Introduction to Digital Humanities'
 sidebar:
   - title: "Office Hours"
-    text: "Thursdays 1-2pm or by appointment"
+    text: "[Thursdays 1-2pm](https://illinois.zoom.us/j/89981350926?pwd=1c6SaZCPb2lyGK4WXcbeiWWG65oh0y.1&from=addon) or by appointment"
     nav: sidebar-sample
   - title: "Class Meetings"
     text: "Thursdays 4:00pm-6:00pm CST"
