@@ -14,7 +14,7 @@ First, I hope that we can all approach this course as an experiment in learning 
 
 To have this kind of flexibility, we must ensure that we are committed to doing our best in this course. Otherwise, we lose a rare opportunity to think collectively and grow intellectually. So, how do we balance these goals—flexibility and commitment—in an increasingly unpredictable world? While I do have to submit grades for you, I want to emphasize that this course is about your individual intellectual development and journey. 
 
-To try and mitigate this tendency we will be doing a form of grading called consultative or specifications grading, which I discuss in the [Grading & Assessment section]({{site.baseurl}}/assessments/02-assessment), but also want to emphasize an important adage that I hope you remember throughout the course: 
+To try and mitigate this tendency we will be doing a form of grading called consultative or specifications grading, which I discuss in the [Grading & Assessment section]({{site.baseurl}}/assessments/2-assessment), but also want to emphasize an important adage that I hope you remember throughout the course: 
 
 > comparison is the thief of joy
 
