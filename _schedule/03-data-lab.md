@@ -43,7 +43,7 @@ Some questions we will consider are: What aspects of this text does TEI allow sc
 
 Next, we're going to use [Posit Cloud](https://posit.cloud/spaces/11704/join?access_code=5aeiqWjSoDjUD1rhC00do9LmobbvTpG6tRx5xXdp) and an interactive code notebook to zoom out just a little bit, and think about historical newspaper text as data, at a slightly larger scale, using the Library of Congress' API (application programming interface). 
 
-##### Lab Task 2: Explore a different set of texts using (and perhaps lightly adapting) the provided code. I've tried to clearly mark the best lines to edit if you are not familiar with or comfortable with writing or debugging code.
+##### Lab Task 2: Explore a different set of texts using (and perhaps lightly adapting) the provided code. I've tried to clearly mark the best lines to edit if you are not familiar with or comfortable with writing or debugging code. If you would prefer not to experiment with the code, consider what kinds of questions you might ask of text-as-data at a modest scale. Beyond just counting words, what kinds of trends might you be able to model and analyze?
 
 #### View 3: Metadata at Scale
 
