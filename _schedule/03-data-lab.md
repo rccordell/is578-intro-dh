@@ -37,7 +37,7 @@ Please [download the XML file](https://github.com/rccordell/is578-intro-dh/blob/
 
 Some questions we will consider are: What aspects of this text does TEI allow scholars to model? Why would you choose to encode a text in this way, when you could post an image of the historical original instead? Consider some slightly more detailed TEI, like [this example from the Early Caribbean Digital Archive](https://github.com/NEU-DSG/ECDA/blob/master/in%20progress/BoardofTradeReport1789.xml) (more on [the ECDA here](https://ecda.northeastern.edu)). What kinds of analyses might this kind of tagging enable?
 
-##### Lab Task 1: Outline the elements of the [_Jeffersonian Republican_](https://chroniclingamerica.loc.gov/lccn/sn86053954/1852-05-13/ed-1/seq-1/)edition of "What Is a Lady?" that you would want to tag in TEI. You don't have to know the right tags or try to make a TEI file, but simply describe what aspects of the text you think would be important to model. If you're feeling ambitious, you can try to edit the TEI I gave you to reflect this distinct newspaper edition of the text.
+##### Lab Task 1: Outline the elements of the [_Jeffersonian Republican_](https://chroniclingamerica.loc.gov/lccn/sn86053954/1852-05-13/ed-1/seq-1/) edition of "What Is a Lady?" that you would want to tag in TEI. You don't have to know the right tags or try to make a TEI file, but simply describe what aspects of the text you think would be important to model. If you're feeling ambitious, you can try to edit the TEI I gave you to reflect this distinct newspaper edition of the text.
 
 #### View 2: Text Analysis
 
