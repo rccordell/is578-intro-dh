@@ -5,6 +5,10 @@ toc: true
 class_date: 2024-09-05
 ---
 
+## Guest
+
+[Tess McNulty](https://www.tessmcnulty.com), UIUC English
+
 ## Discussion Topic
 
 _What is humanities data? How do we work with data in DH? How do we create or discover datasets? What does it mean to transform historic and cultural objects into data?_
