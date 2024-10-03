@@ -26,3 +26,30 @@ _Since (at least) the rebranding of computational humanities scholarship as "Dig
 + Randa El Khatib and Marcel Schaeben, "Why Map Literature? Geospatial Prototyping for Literary Studies and Digital Humanities" (2020), [external link](https://doi.org/10.16995/dscn.381)
 + Amy E Earhart,  Roopika Risam, and Matthew Bruno, "Citational Politics: Quantifying the Influence of Gender on Citation in _Digital Scholarship in the Humanities_ (2020), [external link](https://doi.org/10.1093/llc/fqaa011)
 + A. Miller, "Inclusive Design: A Method and Craft of Transforming Digital Humanities with User Experience" in _Digital Humanities in the Library_ (2024), [library link](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=31260945&ppg=86)
+
+## Resources
+
++ https://informationisbeautiful.net
++ https://pudding.cool
++ _Programming Historian_ lessons [on data visualization](http://programminghistorian.org/en/lessons/?topic=data-visualization)
++ [The DH Awards](http://dhawards.org) (there's a "Best DH Data Visualization" category each year)
+
+### Group Activity
+
+Each group is assigned a DH data visualization (or set of related ones). In your group, spend some time looking at the visualization and answer these questions:
+
+1. Following Isabel Meirelles' dichotomy, is your group's visualization primarily "descriptive" or "argumentative?" 
+2. What can you learn at a glance from the visualization itself, and what would require background reading or additional context to understand?
+3. What can you discern from the visualization about its underlying data? 
+3. Is this visualization accessible? Why or why not?
+4. How would you describe the rhetoric of this visualization? Can you connect it with ideas from one of our readings?
+
+Here are the groups:
+
++ Group 1: [The Battle of Hong Kong](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/map.php)
++ Group 2: [Language of Mechanisation](https://observablehq.com/@jmiguelv/language-of-mechanisation)
++ Group 3: [Visualising the Text of Red Riding Hood](https://ongtiffany.github.io/project/rrh2-viz.html)
++ Group 4: [America's Public Bible](https://americaspublicbible.org)
++ Group 5: [Unsilencing Slavery](https://unsilencing-slavery.org)
++ Group 6: [Tudor Networks](http://tudornetworks.net)
++ Group 7: [Witches](https://witches.is.ed.ac.uk)
