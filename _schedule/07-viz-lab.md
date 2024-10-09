@@ -13,7 +13,7 @@ class_date: 2024-10-10
 
 Hopefully, you've already downloaded [Gephi](https://gephi.org), but if not you will need it for today's workshop.
 
-We will be using [Melanie Walsh's sample network datasets](https://github.com/melaniewalsh/sample-social-network-datasets/tree/master) as well, so click `Code —> Download Zip` to download these files to your machine. I've also gathered Walsh's files, as well as some others we might use if time allows, [in this folder of our class repository](https://github.com/rccordell/is578-intro-dh/tree/gh-pages/public_course_data/network-data).
+We will be using [Melanie Walsh's sample network datasets](https://github.com/melaniewalsh/sample-social-network-datasets/tree/master) today as well as data from the [_Mapping the Republic of Letters_](http://republicofletters.stanford.edu) project. I've gather the files [in this folder of our class repository](https://github.com/rccordell/is578-intro-dh/tree/gh-pages/public_course_data/network-data) for easy download. .
 
 ---
 
