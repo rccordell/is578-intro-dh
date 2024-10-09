@@ -29,8 +29,8 @@ _Since (at least) the rebranding of computational humanities scholarship as "Dig
 
 ## Resources
 
-+ https://informationisbeautiful.net
-+ https://pudding.cool
++ <https://informationisbeautiful.net>
++ <https://pudding.cool>
 + _Programming Historian_ lessons [on data visualization](http://programminghistorian.org/en/lessons/?topic=data-visualization)
 + [The DH Awards](http://dhawards.org) (there's a "Best DH Data Visualization" category each year)
 
