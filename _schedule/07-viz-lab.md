@@ -26,6 +26,15 @@ Building on our discussion of Benjamin Schmidt's argument in ["Do Digital Humani
 
 Let's start by looking together [at this network graph of _Star Wars_ characters](http://evelinag.com/data/2016/social-network-force-awakens/interactions.html). Note that if you hover over a node, the character name will appear. The creator has written about how this graph was created and what it represents, but I want you to first write down some hypotheses. What do you think is being measured about these characters here, and how is that measurement being determined?
 
+#### Lab Task: Build & analyze your own network
+
+Using either one of the datasets from Melanie Walsh that we did not discuss in class or assembling your own edges and nodes:
+
+1. Import or create an edges and nodes table
+2. Run the major network metrics: degree, centrality, betweenness, modularity. You can experiment with others.
+3. Experiment with the layout and visualization of your network based on these metrics. Be sure to look at the numbers in addition to the visualization itself.
+4. Draft a lab report, following the general guidelines for lab reports, that reflects on these qualities. What have you learned (or not) about your network using these methods? What would you need to better understand to take full advantage of these methods?
+
 ### Resources
 
 + Martin Grandjean Tutorial to Gephi (2015), [external link](https://www.martingrandjean.ch/gephi-introduction/)
