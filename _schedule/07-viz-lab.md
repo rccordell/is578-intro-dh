@@ -37,6 +37,7 @@ Using either one of the datasets from Melanie Walsh that we did not discuss in c
 
 ### Resources
 
++ Scott Weingart, [Networks Demystified series](https://www.scottbot.net/HIAL/index.html@tag=networks-demystified&paged=2.html) (or the first two parts at the [_Journal of Digital Humanities_](https://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/))
 + Martin Grandjean Tutorial to Gephi (2015), [external link](https://www.martingrandjean.ch/gephi-introduction/)
 + Miriam Posner's List of Data Visualization Tools (2023), [external link](http://miriamposner.com/classes/dh201w23/tutorials-guides/data-visualization/dataviz-tools/)
 + _Programming Historian_'s [network analysis lessons](https://programminghistorian.org/en/lessons/?topic=network-analysis) and [mapping lessons](https://programminghistorian.org/en/lessons/?topic=mapping)
