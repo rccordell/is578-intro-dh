@@ -37,9 +37,9 @@ With that context, our aim today is to explore a few of the most current AI lang
 
 #### Lab Task #1: Generation
 
-This first task has only one practical outcome, which is:
+This first task has only one practical outcome, which is: _In tandem with a large language model, produce a short poem, "literary" passage, or passage in another distinct genre that you find interesting._ 
 
-_In tandem with a large language model, produce a short poem, "literary" passage, or passage in another distinct genre that you find interesting._ Whether "interesting" means you find it funny, or moving, or surprising, or weird, or disturbing, or otherwise is up to you. But your text should:
+Whether "interesting" means you find it funny, or moving, or surprising, or weird, or disturbing, or otherwise is up to you. Keep in mind what [Melanie Walsh _et al_ have found about ChatGPT's poetic style](https://arxiv.org/abs/2410.15299) (tl;dr it's pretty bad). But your text should:
 
 + Be a hybrid production: some combination of your prompting and a LLM's output. 
 + If a poem, be 1-2 stanzas in length; if prose, a few sentences or short paragraph. LLMs can produce longer texts, which you should feel free to explore, but the deliverable for the lab should be a shorter text
@@ -53,9 +53,9 @@ What is it about this text that you find "interesting," however you chose to def
 
 As digital humanists have begun to explore LLMs and related technologies, often their focus is less on these models' potential for text or image generation, and more on their potential for analysis and data processing. Some libraries, for example, are experimenting with image models for automatically tagging elements of historical images in their collections, while other scholars have experimented with [using LLMs for tasks such as summarization, topic identification, or classification](https://ryancordell.org/research/scissors-paste-LLMs)—such as genre classification—at scale.I will show some of the experiments I've been doing with local instances of Llama 3, for example. 
 
-For this second task, I'd like you to explore a few models' abilities for analysis. In most cases, you would provide some seed text and ask the models to process it in some way—e.g. summarize, classify, extract information, etc. You can use texts related to your own interests, or feel free to draw on an existing resource like [Chronicling America](https://chroniclingamerica.loc.gov), the [Early Caribbean Digital Archive](https://ecda.northeastern.edu), the [Women Writers Project](https://wwp.northeastern.edu), [Founders Online](https://founders.archives.gov), or the [Wright American Fiction](https://webapp1.dlib.indiana.edu/TEIgeneral/welcome.do?brand=wright) collection. There are many other existing digital archives you might draw on.
+For this second task, I'd like you to explore a few models' abilities for analysis. In most cases, you would provide some seed text and ask the models to process it in some way—e.g. summarize, classify, extract information, etc. You can use texts related to your own interests, or feel free to draw on an existing resource like [Chronicling America](https://chroniclingamerica.loc.gov), the [Early Caribbean Digital Archive](https://ecda.northeastern.edu), the [Women Writers Project](https://wwp.northeastern.edu), [Founders Online](https://founders.archives.gov), or the [Wright American Fiction](https://webapp1.dlib.indiana.edu/TEIgeneral/welcome.do?brand=wright) collection. There are many other existing digital archives you might draw on. You could use, for instance, the newspaper you analyzed in Lab #1, choosing particular stories to cut & paste from the OCR view into your chosen LLM. 
 
-Whatever texts you choose to work with, you should compare the performance of a few models across the same set of analyses. You should use these outputs to begin developing hypotheses about the training data, finetuning, and other aspects of the models' construction.
+Whatever texts you choose to work with, you should compare the performance of a few models across the same set of analyses. You should try different approaches too: for instance, what genre does the LLM assign if you leave the prompt open-ended, vs. when you ask it to choose from a preset list of genres? If you ask the model to summarize a text, how does it change if you specify different audiences or writing styles for the summary? You should use these outputs to begin developing hypotheses about the training data, finetuning, and other aspects of the models' construction.
 
 #### Lab Task #3: Archaeology
 
@@ -77,5 +77,6 @@ If you have further time and interest, you might explore text-to-image models as
  
 ### Resources
 
++ Stephen Wolfram. “What Is ChatGPT Doing … and Why Does It Work?,” (2023), <https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/>.
 + [MonadGPT](https://huggingface.co/spaces/Pclanglais/MonadGPT), a model finetuned on "11,000 early modern texts in English, French and Latin, mostly coming from EEBO and Gallica"
 
