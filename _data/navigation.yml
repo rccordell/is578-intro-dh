@@ -50,8 +50,10 @@ schedule:
         url: /schedule/09-models-lab
       - title: "<b>October 31</b><br> Making DH Manifest"
         url: /schedule/10-making
-      - title: "<b>November 7</b><br> Lab: #DH Makes"
+      - title: "<b>November 7</b><br> Lab: #DHMakes"
         url: /schedule/11-making-lab
+      - title: "<b>November 14</b><br> Lab: DH Archives"
+        url: /schedule/12-dh-archives
 
 
 

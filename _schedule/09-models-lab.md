@@ -31,6 +31,7 @@ With that context, our aim today is to explore a few of the most current AI lang
 + [Llama](https://www.llama.com)
 + [Gemini](https://gemini.google.com)
 + [NovelAI](https://novelai.net)
++ [Google Notebook LM](https://notebooklm.google.com)
 + if you have some programming background and access to an LLM's API, feel free to use that directly
 
 ### Lab Tasks
