@@ -80,5 +80,5 @@ If you have further time and interest, you might explore text-to-image models as
 ### Resources
 
 + Stephen Wolfram. “What Is ChatGPT Doing … and Why Does It Work?,” (2023), <https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/>.
-+ Janelle Shane, "You Look Like a Thing and I Love You" (2020), <https://www.youtube.com/watch?v=2ZiPEOFnK1o>
++ Janelle Shane, "You Look Like a Thing and I Love You" (2020), <https://www.youtube.com/watch?v=2ZiPEOFnK1o>. Also check out Shane's [AI Weirdness blog](https://www.aiweirdness.com)
 
