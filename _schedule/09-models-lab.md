@@ -31,6 +31,7 @@ With that context, our aim today is to explore a few of the most current AI lang
 + [Llama](https://www.llama.com)
 + [Gemini](https://gemini.google.com)
 + [NovelAI](https://novelai.net)
++ [MonadGPT](https://huggingface.co/spaces/Pclanglais/MonadGPT), a model finetuned on "11,000 early modern texts in English, French and Latin, mostly coming from EEBO and Gallica"
 + [Google Notebook LM](https://notebooklm.google.com)
 + if you have some programming background and access to an LLM's API, feel free to use that directly
 
@@ -79,5 +80,4 @@ If you have further time and interest, you might explore text-to-image models as
 ### Resources
 
 + Stephen Wolfram. “What Is ChatGPT Doing … and Why Does It Work?,” (2023), <https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/>.
-+ [MonadGPT](https://huggingface.co/spaces/Pclanglais/MonadGPT), a model finetuned on "11,000 early modern texts in English, French and Latin, mostly coming from EEBO and Gallica"
 
