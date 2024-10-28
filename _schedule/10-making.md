@@ -5,6 +5,10 @@ toc: true
 class_date: 2024-10-31
 ---
 
+## Guest
+
+[Quinn Dombrowski](https://quinndombrowski.com), Stanford Division of Literatures, Cultures, and Languages, Founder of the [Data-Sitters Club](https://datasittersclub.github.io/site/#), and Director of Stanford's [Textile Makerspace](https://quinndombrowski.com/projects/textile-makerspace/)
+
 ## Discussion Topic
 
 _[As Bethany Nowviskie notes](https://dhdebates.gc.cuny.edu/read/untitled/section/a5a2c3f4-65ca-4257-a8bb-6618d635c49f), the phrase "more hack, less yack" began as “a silly…comment on the dominant structure of academic conferences” and then “went viral at a moment when the last thing the digital humanities needed was an anti-intellectual-sounding slogan.” As that early debate signals, DH has long ruminated on the intellectual value of applied work. Recently, these conversations have turned increasingly—and perhaps paradoxically—material and analog. This week we explore the "maker turn" in light of the field's development we have traced throughout the semester. Why are Dhers sewing and weaving and book binding and cooking and printing, and how do those practices complement or extend the work of the field?_
