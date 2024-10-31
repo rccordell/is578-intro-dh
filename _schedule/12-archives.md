@@ -1,6 +1,6 @@
 ---
 title: "DH Archives"
-permalink: /schedule/12-dh-archives/
+permalink: /schedule/12-archives/
 toc: true
 class_date: 2024-11-14
 ---
